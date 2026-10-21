@@ -1,0 +1,27 @@
+{
+"id": "/velocity-x/",
+"name": "Velocity X",
+"short_name": "Velocity X",
+"description": "Velocity X — A game by Trendix Studios. Push Beyond Limits.",
+"start_url": "./",
+"scope": "/velocity-x/",
+"display": "standalone",
+"orientation": "landscape",
+"background_color": "#080B14",
+"theme_color": "#080B14",
+"categories": ["games"],
+"icons": [
+{
+"src": "icon-192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "icon-512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+}
+]
+}
