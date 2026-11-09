@@ -1,4 +1,4 @@
-const CACHE_NAME = "velocity-x-v1";
+const CACHE_NAME = "Ghostshift-v-2.0";
 const APP_SHELL = [
 "./",
 "./index.html",
